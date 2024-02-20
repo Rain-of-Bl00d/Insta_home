@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading {
+    margin-left: 10px;
+    font-family: 'Billabong';
+}
+
+.image {
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+    background:
+        linear-gradient(yellow, red, pink, purple);
+    padding: 4px;
+    margin: 8.5px;
+}
+
+.image2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    background:
+        linear-gradient(yellow, red, pink, purple);
+    padding: 3.5px;
+    margin: 10px;
+}
+
+.paragraph {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.bottom-sec1 {
+    background-image: url('https://repository-images.githubusercontent.com/367960316/89758719-06b4-4679-8631-5f4558cb38a3');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 400px;
+}
+
+.bottom-sec2 {
+    background-image: url('https://imgix.ranker.com/list_img_v2/8539/2708539/original/reasons-dragon-ball-gt-is-good?fit=crop&fm=pjpg&q=60&dpr=2&w=1200&h=720');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 400px;
+}
+
+.bottom-sec3 {
+    background-image: url('https://i.kym-cdn.com/photos/images/newsfeed/001/290/210/3d0.gif');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 400px;
+}
+
+.p2 {
+    margin-left: 8.5px;
+}
